@@ -1,9 +1,0 @@
-streamlit
-PyPDF2
-python-docx
-python-pptx
-beautifulsoup4
-requests
-langchain
-sentence-transformers
-faiss-cpu
